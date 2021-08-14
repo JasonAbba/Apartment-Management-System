@@ -1,0 +1,20 @@
+C:\Users\JasonPC\source\repos\pythonExecuter\bin\Debug\pythonExecuter.exe.config
+C:\Users\JasonPC\source\repos\pythonExecuter\bin\Debug\pythonExecuter.exe
+C:\Users\JasonPC\source\repos\pythonExecuter\bin\Debug\pythonExecuter.pdb
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.csprojAssemblyReference.cache
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.Form1.resources
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.Properties.Resources.resources
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.csproj.GenerateResource.cache
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.exe
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.pdb
+C:\Users\JasonPC\source\repos\pythonExecuter\obj\Debug\pythonExecuter.csproj.CoreCompileInputs.cache
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\bin\Debug\pythonExecuter.exe.config
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\bin\Debug\pythonExecuter.exe
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\bin\Debug\pythonExecuter.pdb
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.csprojAssemblyReference.cache
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.Form1.resources
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.Properties.Resources.resources
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.csproj.GenerateResource.cache
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.csproj.CoreCompileInputs.cache
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.exe
+D:\Projects\Mini project\Facial Recognition\pythonExecuter-20201012T105059Z-001\pythonExecuter\obj\Debug\pythonExecuter.pdb
