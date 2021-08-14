@@ -1,0 +1,10 @@
+C:\Users\deepu\source\repos\GUImin\GUImin\bin\Debug\GUImin.exe.config
+C:\Users\deepu\source\repos\GUImin\GUImin\bin\Debug\GUImin.exe
+C:\Users\deepu\source\repos\GUImin\GUImin\bin\Debug\GUImin.pdb
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.csprojAssemblyReference.cache
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.Form1.resources
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.Properties.Resources.resources
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.csproj.GenerateResource.cache
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.csproj.CoreCompileInputs.cache
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.exe
+C:\Users\deepu\source\repos\GUImin\GUImin\obj\Debug\GUImin.pdb
