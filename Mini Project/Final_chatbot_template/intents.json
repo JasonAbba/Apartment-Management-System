@@ -1,0 +1,99 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "Whats up", "Heyo", "bonjour", "Hi there", "allo", "ello", "heya", "mate"],
+         "responses": ["Hello!", "Good to see you!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "See you soon", "Bye", "See you", "Ciao", "bye bye", "ttly", "See you around", "Ta ta", "Bye","bye"],
+         "responses": ["Talk to you later", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old is bert", "what is your age", "how old are you", "age?", "How old you"],
+         "responses": ["I am 18 years old!", "18 years young!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?", "your name", "Who are you?", "You are?", "who is you", "who you"],
+         "responses": ["I'm Bert the chatbot!", "I'm Bert", "You can call me Bert :)"],
+         "context_set": ""
+        },
+        {"tag": "rent_apps",
+         "patterns": ["Rent", "I'd like to see apartments on rent", "What flats are on rent?", "Rent flats", "rent some flats", "What apartments apps are on rent?", "Rent apps", "rent some apartments", "How many flats free", "How many apartments free","Free apps", "Free apartments", "Which on rent"],
+         "responses": ["The following apartments are available for rent: 206, 248, 162 and 114"],
+         "context_set": ""
+        },
+        {"tag": "sale_apps",
+         "patterns": ["Sale", "I'd like to see apartments on sale", "What flats are on sale?","sold" ,"Rent flats", "sell some flats", "What apartments apps are on sale?", "Rent apps", "sale some apartments", "How many flats on sale", "How many apartments to sold","to sell", "Free to sell apartments", "Which on sale", "on sale"],
+         "responses": ["The following apartments are available for sale: 25, 275, 63, 87 and 85"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "time", "timing", "what are your hours", "hours of operation", "Management timing", "Clubhouse time", "When are you free", "Time available"],
+         "responses": ["We are open 7am-4pm Monday-Friday!"],
+         "context_set": ""
+        },
+        {"tag": "Mngt_complain",
+         "patterns": ["Who should I contact", "Management", "Contact details", "who do I complaint to", "Who should i talk to", "whom do I contact", "Where can I complain", "Complain", "Where do I find", "Who do I", "Where can I", "electricity", "water", "plumbing", "sewage", "electric", "power", "power out", "voltage", "volt", "seep", "seeping", "leak", "leaking", "leakage", "shock", "fire", "heat", "flame", "danger", "stuck", "lift", "help", "security", "plumber", "electrician", "scared", "fast"],
+         "responses": ["Contact:\n Management: 992-359-0120\n Plumber: 765-487-5300\n Electrician: 998-416-552\n Security: 756-908-0074"],
+         "context_set": ""
+        },
+        {"tag": "Mngt_members",
+         "patterns": ["Who are Management", "Who in Management","Who are board members", "Who runs this place?", "who is in charge", "who runs apartment", "who are members", "board members", "board", "elected", "directors", "president", "who is president", "who is chair"],
+         "responses": ["Board members are: \n Ram - President\n Shyam - VC\n Ramesh - Chair\n Suresh - Treasurer"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_school",
+         "patterns": ["Where is school", "Nearby school", "Close school", "education", "School is close", "School vicinity", "School", "Where can I find school"],
+         "responses": ["There is an international school 2 kms away"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_hospital",
+         "patterns": ["Where is hospital", "Nearby hospital", "Close hospital", "education", "hospital is close", "hospital vicinity", "hospital", "Where can I find hospital"],
+         "responses": ["There is a hospital 1 km away"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_rail way",
+         "patterns": ["Where is rail way", "Nearby rail way", "Close rail way", "education", "rail way is close", "rail way vicinity", "rail way", "Where can I find rail way station"],
+         "responses": ["There is a railway station 10 kms away"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_airport",
+         "patterns": ["Where is airport", "Nearby airport", "Close airport", "education", "airport is close", "airport vicinity", "airport", "Where can I find airport"],
+         "responses": ["There is an airport 5 kms away"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_atm",
+         "patterns": ["Where is atm", "Nearby atm", "Close atm", "education", "atm is close", "atm vicinity", "atm", "Where can I find atm"],
+         "responses": ["There is an ATM in the clubhouse"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_Daycare",
+         "patterns": ["Where is Daycare", "Nearby Daycare", "Close Daycare", "education", "Daycare is close", "Daycare vicinity", "Daycare", "Where can I find daycare"],
+         "responses": ["There is a day-care center in the clubhouse"],
+         "context_set": ""
+        },
+        {"tag": "Where_is_Market",
+         "patterns": ["Where is Market", "Nearby Market", "Close Market", "education", "Market is close", "Market vicinity", "Market", "Where can I find market"],
+         "responses": ["There is a Super-market near the clubhouse"],
+         "context_set": ""
+        },
+        {"tag": "Weather",
+         "patterns": ["How's the weather?", "Weather", "climate"],
+         "responses": ["I love the weather :)"],
+         "context_set": ""
+        },
+        {"tag": "Transport_Service",
+         "patterns": ["Bus", "Bus service?", "Transport", "bus timings", "transportation", "transport service", "travel service", "travelling", "vehicle", "where can i find bus"],
+         "responses": ["Bus service available from : 5:00 am till 11:30 pm at the bus stop across the road"],
+         "context_set": ""
+        },
+        {"tag": "Thanks",
+         "patterns": ["Thanks", "Thank-you", "tnx", "thank", "thx", "ty", "Okay"],
+         "responses": ["Can I help you with anything else?"],
+         "context_set": ""
+        }
+
+   ]
+}
